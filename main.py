@@ -8,3 +8,5 @@ def banana():
 def grapefriut():
     print('nobody likes grapefruit')
     
+def pineapple():
+    print("hello, I'm a pineapple!")
