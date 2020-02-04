@@ -13,3 +13,9 @@ def pineapple():
 
 def watermelon():
     print("the melon of water")
+
+def snake_fruit():
+    print("tastes like a really dry apple")
+
+def passion_fruit():
+    print("good fruit")
