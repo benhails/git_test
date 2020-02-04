@@ -11,5 +11,10 @@ def grapefriut():
 def pineapple():
     print("hello, I'm a pineapple!")
 
+<<<<<<< HEAD
 def watermelon():
     print("the melon of water")
+=======
+def snake_fruit():
+    print("tastes like a really dry apple")
+>>>>>>> added snake-fruit
