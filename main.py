@@ -10,3 +10,6 @@ def grapefriut():
     
 def pineapple():
     print("hello, I'm a pineapple!")
+
+def watermelon():
+    print("the melon of water")
